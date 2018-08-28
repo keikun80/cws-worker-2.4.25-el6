@@ -26,5 +26,5 @@
 --enable-modules=reallyall \
 --with-ssl \
 --with-mpm=worker \
---with-pcre=/opt/work_cws/pcre/bin \
+--with-pcre=/opt/work_cws/pcre \
 --with-included-apr \
